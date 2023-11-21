@@ -37,7 +37,7 @@ public class MatchDatesTests
     public void Test_Match_MultipleMatches_ReturnsFirstMatch()
     {
         // Arrange
-        string input = "03.Apr.1998 31/Mar/1969 06\Nov\1967";
+        string input = "03.Apr.1998 31/Mar/1969 06/Nov/1967";
         string expected = "Day: 03, Month: Apr, Year: 1998";
 
         // Act
