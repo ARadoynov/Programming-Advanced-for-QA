@@ -1,0 +1,14 @@
+C:\Users\A\source\repos\ExercisesDictionariesLambdaLINQ\P04_SoftUniParking\bin\Debug\net6.0\P04_SoftUniParking.exe
+C:\Users\A\source\repos\ExercisesDictionariesLambdaLINQ\P04_SoftUniParking\bin\Debug\net6.0\P04_SoftUniParking.deps.json
+C:\Users\A\source\repos\ExercisesDictionariesLambdaLINQ\P04_SoftUniParking\bin\Debug\net6.0\P04_SoftUniParking.runtimeconfig.json
+C:\Users\A\source\repos\ExercisesDictionariesLambdaLINQ\P04_SoftUniParking\bin\Debug\net6.0\P04_SoftUniParking.dll
+C:\Users\A\source\repos\ExercisesDictionariesLambdaLINQ\P04_SoftUniParking\bin\Debug\net6.0\P04_SoftUniParking.pdb
+C:\Users\A\source\repos\ExercisesDictionariesLambdaLINQ\P04_SoftUniParking\obj\Debug\net6.0\P04_SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\source\repos\ExercisesDictionariesLambdaLINQ\P04_SoftUniParking\obj\Debug\net6.0\P04_SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\A\source\repos\ExercisesDictionariesLambdaLINQ\P04_SoftUniParking\obj\Debug\net6.0\P04_SoftUniParking.AssemblyInfo.cs
+C:\Users\A\source\repos\ExercisesDictionariesLambdaLINQ\P04_SoftUniParking\obj\Debug\net6.0\P04_SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\ExercisesDictionariesLambdaLINQ\P04_SoftUniParking\obj\Debug\net6.0\P04_SoftUniParking.dll
+C:\Users\A\source\repos\ExercisesDictionariesLambdaLINQ\P04_SoftUniParking\obj\Debug\net6.0\refint\P04_SoftUniParking.dll
+C:\Users\A\source\repos\ExercisesDictionariesLambdaLINQ\P04_SoftUniParking\obj\Debug\net6.0\P04_SoftUniParking.pdb
+C:\Users\A\source\repos\ExercisesDictionariesLambdaLINQ\P04_SoftUniParking\obj\Debug\net6.0\P04_SoftUniParking.genruntimeconfig.cache
+C:\Users\A\source\repos\ExercisesDictionariesLambdaLINQ\P04_SoftUniParking\obj\Debug\net6.0\ref\P04_SoftUniParking.dll

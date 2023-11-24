@@ -1,0 +1,14 @@
+C:\Users\A\source\repos\ExercisesDictionariesLambdaLINQ\ExercisesDictionariesLambdaLINQ\bin\Debug\net6.0\P01.exe
+C:\Users\A\source\repos\ExercisesDictionariesLambdaLINQ\ExercisesDictionariesLambdaLINQ\bin\Debug\net6.0\P01.deps.json
+C:\Users\A\source\repos\ExercisesDictionariesLambdaLINQ\ExercisesDictionariesLambdaLINQ\bin\Debug\net6.0\P01.runtimeconfig.json
+C:\Users\A\source\repos\ExercisesDictionariesLambdaLINQ\ExercisesDictionariesLambdaLINQ\bin\Debug\net6.0\P01.dll
+C:\Users\A\source\repos\ExercisesDictionariesLambdaLINQ\ExercisesDictionariesLambdaLINQ\bin\Debug\net6.0\P01.pdb
+C:\Users\A\source\repos\ExercisesDictionariesLambdaLINQ\ExercisesDictionariesLambdaLINQ\obj\Debug\net6.0\P01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\source\repos\ExercisesDictionariesLambdaLINQ\ExercisesDictionariesLambdaLINQ\obj\Debug\net6.0\P01.AssemblyInfoInputs.cache
+C:\Users\A\source\repos\ExercisesDictionariesLambdaLINQ\ExercisesDictionariesLambdaLINQ\obj\Debug\net6.0\P01.AssemblyInfo.cs
+C:\Users\A\source\repos\ExercisesDictionariesLambdaLINQ\ExercisesDictionariesLambdaLINQ\obj\Debug\net6.0\P01.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\ExercisesDictionariesLambdaLINQ\ExercisesDictionariesLambdaLINQ\obj\Debug\net6.0\P01.dll
+C:\Users\A\source\repos\ExercisesDictionariesLambdaLINQ\ExercisesDictionariesLambdaLINQ\obj\Debug\net6.0\refint\P01.dll
+C:\Users\A\source\repos\ExercisesDictionariesLambdaLINQ\ExercisesDictionariesLambdaLINQ\obj\Debug\net6.0\P01.pdb
+C:\Users\A\source\repos\ExercisesDictionariesLambdaLINQ\ExercisesDictionariesLambdaLINQ\obj\Debug\net6.0\P01.genruntimeconfig.cache
+C:\Users\A\source\repos\ExercisesDictionariesLambdaLINQ\ExercisesDictionariesLambdaLINQ\obj\Debug\net6.0\ref\P01.dll
