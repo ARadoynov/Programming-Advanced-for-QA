@@ -1,0 +1,14 @@
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ExerciseObjectsAndClasses\bin\Debug\net6.0\P01_Songs.exe
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ExerciseObjectsAndClasses\bin\Debug\net6.0\P01_Songs.deps.json
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ExerciseObjectsAndClasses\bin\Debug\net6.0\P01_Songs.runtimeconfig.json
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ExerciseObjectsAndClasses\bin\Debug\net6.0\P01_Songs.dll
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ExerciseObjectsAndClasses\bin\Debug\net6.0\P01_Songs.pdb
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ExerciseObjectsAndClasses\obj\Debug\net6.0\P01_Songs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ExerciseObjectsAndClasses\obj\Debug\net6.0\P01_Songs.AssemblyInfoInputs.cache
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ExerciseObjectsAndClasses\obj\Debug\net6.0\P01_Songs.AssemblyInfo.cs
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ExerciseObjectsAndClasses\obj\Debug\net6.0\P01_Songs.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ExerciseObjectsAndClasses\obj\Debug\net6.0\P01_Songs.dll
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ExerciseObjectsAndClasses\obj\Debug\net6.0\refint\P01_Songs.dll
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ExerciseObjectsAndClasses\obj\Debug\net6.0\P01_Songs.pdb
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ExerciseObjectsAndClasses\obj\Debug\net6.0\P01_Songs.genruntimeconfig.cache
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ExerciseObjectsAndClasses\obj\Debug\net6.0\ref\P01_Songs.dll

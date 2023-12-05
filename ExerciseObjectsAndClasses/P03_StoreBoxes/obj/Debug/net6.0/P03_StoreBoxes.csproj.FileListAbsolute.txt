@@ -1,0 +1,14 @@
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ConsoleApp2\bin\Debug\net6.0\P03_StoreBoxes.exe
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ConsoleApp2\bin\Debug\net6.0\P03_StoreBoxes.deps.json
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ConsoleApp2\bin\Debug\net6.0\P03_StoreBoxes.runtimeconfig.json
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ConsoleApp2\bin\Debug\net6.0\P03_StoreBoxes.dll
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ConsoleApp2\bin\Debug\net6.0\P03_StoreBoxes.pdb
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ConsoleApp2\obj\Debug\net6.0\P03_StoreBoxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ConsoleApp2\obj\Debug\net6.0\P03_StoreBoxes.AssemblyInfoInputs.cache
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ConsoleApp2\obj\Debug\net6.0\P03_StoreBoxes.AssemblyInfo.cs
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ConsoleApp2\obj\Debug\net6.0\P03_StoreBoxes.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ConsoleApp2\obj\Debug\net6.0\P03_StoreBoxes.dll
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ConsoleApp2\obj\Debug\net6.0\refint\P03_StoreBoxes.dll
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ConsoleApp2\obj\Debug\net6.0\P03_StoreBoxes.pdb
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ConsoleApp2\obj\Debug\net6.0\P03_StoreBoxes.genruntimeconfig.cache
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ConsoleApp2\obj\Debug\net6.0\ref\P03_StoreBoxes.dll

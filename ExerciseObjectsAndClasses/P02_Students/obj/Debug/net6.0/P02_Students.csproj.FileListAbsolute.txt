@@ -1,0 +1,14 @@
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ConsoleApp1\obj\Debug\net6.0\P02_Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ConsoleApp1\obj\Debug\net6.0\P02_Students.AssemblyInfoInputs.cache
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ConsoleApp1\obj\Debug\net6.0\P02_Students.AssemblyInfo.cs
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ConsoleApp1\obj\Debug\net6.0\P02_Students.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ConsoleApp1\bin\Debug\net6.0\P02_Students.exe
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ConsoleApp1\bin\Debug\net6.0\P02_Students.deps.json
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ConsoleApp1\bin\Debug\net6.0\P02_Students.runtimeconfig.json
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ConsoleApp1\bin\Debug\net6.0\P02_Students.dll
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ConsoleApp1\bin\Debug\net6.0\P02_Students.pdb
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ConsoleApp1\obj\Debug\net6.0\P02_Students.dll
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ConsoleApp1\obj\Debug\net6.0\refint\P02_Students.dll
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ConsoleApp1\obj\Debug\net6.0\P02_Students.pdb
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ConsoleApp1\obj\Debug\net6.0\P02_Students.genruntimeconfig.cache
+C:\Users\A\source\repos\ExerciseObjectsAndClasses\ConsoleApp1\obj\Debug\net6.0\ref\P02_Students.dll
